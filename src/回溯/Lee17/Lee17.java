@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Lee17 {
+    public static void main(String[] args) {
+
+    }
     List<String> list = new ArrayList<>();
     StringBuilder temp = new StringBuilder();
     public List<String> letterCombinations(String digits) {
